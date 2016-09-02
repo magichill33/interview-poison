@@ -1,0 +1,12 @@
+阿里一面：
+	1、自我介绍
+	2、项目
+	3、集合框架
+	4、string，stringBuilder,StringBuffer
+	5、二叉树遍历
+	5、Arrays.sort实现原理和Collection实习原理
+	7、Object常用方法和equal和hashCode
+	8、什么是多态（我举得例子：beanFactory）
+	9、session的实现机制
+	10、问面试官。。。
+还有一点忘记了。。。反正都是基础的
